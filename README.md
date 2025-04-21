@@ -1,4 +1,4 @@
-![Screenshot 2025-04-21 134423](https://github.com/user-attachments/assets/77f89c5f-b68b-47f6-b62a-99989590b079)![Screenshot 2025-04-21 132648](https://github.com/user-attachments/assets/e7d0aa39-1f64-426f-9a15-c3d8d299414d)# Install-Autopsy-and-Analyze-the-Disk-File-and-Folder-Configuration
+# Install-Autopsy-and-Analyze-the-Disk-File-and-Folder-Configuration
 ## AIM:
 To install Autopsy on Kali Linux and analyze disk images, files, and folder configurations for digital forensic purposes.
 
